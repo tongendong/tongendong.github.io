@@ -27,7 +27,7 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 - *2021.12*: &nbsp;🎉 We receive the APPT 2021 Innovation Award - Honorable Mention. 
 - *2021.08*: &nbsp;🎉 We are the Runner up Winners of the AutoDriving CTF at DEFCON 29. 
 
-# 📝 Publications 
+# 📝 <font color=Chocolate>Publications</font> 
 **For more papers, please refer to [DBLP](https://dblp.uni-trier.de/pid/117/2573.html) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=h2IVObkAAAAJ).**
 
 - <font style="background: #C0FF3E">IEEE Network,2024</font> Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation, **IEEE Network 2024**
