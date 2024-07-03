@@ -19,8 +19,10 @@ redirect_from:
 I am an Associate professor in the School of Cyber Science and Technology at Beijing Jiaotong University. In my research, I focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning. Thus, my research interests include artificial intelligence security, reinforcement learning, multiagent systems, and automated negotiation. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉 Shiyao Chen has been awarded the Outstanding Master's Thesis at Beijing Jiaotong University. 
+- *2023.04*: &nbsp;🎉 Our paper is accepted by IJCAI 2023.
+- *2021.12*: &nbsp;🎉 We receive the APPT 2021 Innovation Award - Honorable Mention. 
+- *2021.08*: &nbsp;🎉 We are the Runner up Winners of the AutoDriving CTF at DEFCON 29. 
 
 # 📝 Publications 
 - [Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation](https://github.com), **IEEE Network 2024**
