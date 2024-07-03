@@ -21,12 +21,15 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 # 🔥 News
 - *2024.06*: &nbsp;🎉 Shiyao Chen has been awarded the Outstanding Master's Thesis at Beijing Jiaotong University.
 - *2024.06*: &nbsp;🎉 Yalun Wu receives support for graduate innovation project from Beijing Jiaotong University.
+- *2024.01*: &nbsp;🎉 The first gift exchange event has been a complete success.
 - *2023.04*: &nbsp;🎉 Our paper is accepted by IJCAI 2023.
 - *2022.08*: &nbsp;🎉 We receive the second place in the AutoDriving CTF at DEFCON 30.
 - *2021.12*: &nbsp;🎉 We receive the APPT 2021 Innovation Award - Honorable Mention. 
 - *2021.08*: &nbsp;🎉 We are the Runner up Winners of the AutoDriving CTF at DEFCON 29. 
 
 # 📝 Publications 
+**For more papers, please refer to [DBLP](https://dblp.uni-trier.de/pid/117/2573.html) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=h2IVObkAAAAJ).**
+
 - [Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation](https://github.com), **IEEE Network 2024**
 - [Toward Learning Model-Agnostic Explanations for Deep Learning-Based Signal Modulation Classifiers](https://github.com), **IEEE Transactions on Reliability 2024**
 - [Robust Reinforcement Learning via Progressive Task Sequence](https://github.com), **IJCAI 2023**
@@ -38,8 +41,6 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 - [Protecting Reward Function of Reinforcement Learning via Minimal and Non-catastrophic Adversarial Trajectory](https://github.com), **SRDS 2021**
 - [Robustness Assessment of Asynchronous Advantage Actor-Critic Based on Dynamic Skewness and Sparseness Computation: A Parallel Computing View](https://github.com), **Journal of Computer Science and Technology 2021**
 - [Energy-aware service selection and adaptation in wireless sensor networks with QoS guarantee](https://github.com), **IEEE Transactions on Services Computing 2020**
-
-**For more papers, please refer to [DBLP](https://dblp.uni-trier.de/pid/117/2573.html) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=h2IVObkAAAAJ).**
 
 # 🎖 Honors and Awards
 - Outstanding Ph.D. Graduates of the University of Chinese Academy of Sciences, and Beijing.
