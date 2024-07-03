@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate professor in the School of Cyber Science and Technology at Beijing Jiaotong University. In my research, I focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning. Thus, my research interests include artificial intelligence security, reinforcement learning, multiagent systems, and automated negotiation. 
+I am an Associate professor in the School of Cyber Science and Technology at Beijing Jiaotong University. In my research, I focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning. Thus, my research interests include artificial intelligence security, reinforcement learning, multiagent systems, and automated negotiation. If you are seeking any form of academic cooperation, please feel free to email me at edtong@bjtu.edu.cn.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉 Shiyao Chen has been awarded the Outstanding Master's Thesis at Beijing Jiaotong University. 
