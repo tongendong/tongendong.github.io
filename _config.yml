@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Endong Tong"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "Endong Tong/tongendong.github.io"
 google_scholar_stats_use_cdn : true
 
