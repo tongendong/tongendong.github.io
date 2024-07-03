@@ -30,7 +30,7 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 # 📝 Publications 
 **For more papers, please refer to [DBLP](https://dblp.uni-trier.de/pid/117/2573.html) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=h2IVObkAAAAJ).**
 
-- <font style="background: #C0FF3E">IEEE Network,2024</font> Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation, **IEEE Network 2024**
+- <div style="background: #C0FF3E">IEEE Network,2024</div> Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation, **IEEE Network 2024**
 - Toward Learning Model-Agnostic Explanations for Deep Learning-Based Signal Modulation Classifiers, **IEEE Transactions on Reliability 2024**
 - Robust Reinforcement Learning via Progressive Task Sequence, **IJCAI 2023**
 - A Missing QoS Prediction Approach via Time-aware Collaborative Filtering, **IEEE Transactions on Services Computing 2022**
