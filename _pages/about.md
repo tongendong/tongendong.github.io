@@ -18,7 +18,7 @@ redirect_from:
 
 I am an Associate professor in the School of Cyber Science and Technology at Beijing Jiaotong University. In my research, I focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning. Thus, my research interests include artificial intelligence security, reinforcement learning, multiagent systems, and automated negotiation. If you are seeking any form of academic cooperation, please feel free to email me at <edtong@bjtu.edu.cn>.
 
-# 🔥 News
+# 🔥 <font color=Chocolate>News</font> 
 - *2024.06*: &nbsp;🎉 Shiyao Chen has been awarded the Outstanding Master's Thesis at Beijing Jiaotong University.
 - *2024.06*: &nbsp;🎉 Yalun Wu receives support for graduate innovation project from Beijing Jiaotong University.
 - *2024.01*: &nbsp;🎉 The first gift exchange event has been a complete success.
@@ -42,7 +42,7 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 - Robustness Assessment of Asynchronous Advantage Actor-Critic Based on Dynamic Skewness and Sparseness Computation: A Parallel Computing View, **Journal of Computer Science and Technology 2021**
 - Energy-aware service selection and adaptation in wireless sensor networks with QoS guarantee, **IEEE Transactions on Services Computing 2020**
 
-# 🎖 Honors and Awards
+# 🎖 <font color=Chocolate>Honors and Awards</font> 
 - Outstanding Ph.D. Graduates of the University of Chinese Academy of Sciences, and Beijing.
 - Woqi Excellent Young Teacher Award.
 - APPT 2021 Innovation Award - Honorable Mention.
