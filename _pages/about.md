@@ -22,6 +22,7 @@ I am an Associate professor in the School of Cyber Science and Technology at Bei
 - *2024.06*: &nbsp;🎉 Shiyao Chen has been awarded the Outstanding Master's Thesis at Beijing Jiaotong University.
 - *2024.06*: &nbsp;🎉 Yalun Wu receives support for graduate innovation project from Beijing Jiaotong University.
 - *2023.04*: &nbsp;🎉 Our paper is accepted by IJCAI 2023.
+- *2022.08*: &nbsp;🎉 We receive the second place in the AutoDriving CTF at DEFCON 30.
 - *2021.12*: &nbsp;🎉 We receive the APPT 2021 Innovation Award - Honorable Mention. 
 - *2021.08*: &nbsp;🎉 We are the Runner up Winners of the AutoDriving CTF at DEFCON 29. 
 
