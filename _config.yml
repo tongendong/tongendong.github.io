@@ -24,7 +24,7 @@ author:
   name             : "Endong Tong"
   avatar           : "images/tongendong.png"
   bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
+  # location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h2IVObkAAAAJ"
