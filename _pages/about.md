@@ -16,42 +16,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am an Associate professor in the School of Cyber Science and Technology at Beijing Jiaotong University. In my research, I focus on how to enable autonomous agents to acquire complex behaviors that are both safe and effective through learning. Thus, my research interests include artificial intelligence security, reinforcement learning, multiagent systems, and automated negotiation. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation](https://github.com), **IEEE Network 2024**
+- [Toward Learning Model-Agnostic Explanations for Deep Learning-Based Signal Modulation Classifiers](https://github.com), **IEEE Transactions on Reliability 2024**
+- [Robust Reinforcement Learning via Progressive Task Sequence](https://github.com), **IJCAI 2023**
+- [A Missing QoS Prediction Approach via Time-aware Collaborative Filtering](https://github.com), **IEEE Transactions on Services Computing 2022**
+- [Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation](https://github.com), **IEEE Transactions on Green Communications and Networking 2022**
+- [A Mutual Information-based Assessment of Reverse Engineering on Rewards of Reinforcement Learning](https://github.com), **IEEE Transactions on Artificial Intelligence 2022**
+- [A Hierarchical Energy-Efficient Service Selection Approach With QoS Constraints for Internet of Things](https://github.com), **IEEE Transactions on Green Communications and Networking 2021**
+- [Adversarial retraining attack of asynchronous advantage actor-critic based pathfinding](https://github.com), **International Journal of Intelligent System 2021**
+- [Protecting Reward Function of Reinforcement Learning via Minimal and Non-catastrophic Adversarial Trajectory](https://github.com), **SRDS 2021**
+- [Robustness Assessment of Asynchronous Advantage Actor-Critic Based on Dynamic Skewness and Sparseness Computation: A Parallel Computing View](https://github.com), **Journal of Computer Science and Technology 2021**
+- [Energy-aware service selection and adaptation in wireless sensor networks with QoS guarantee](https://github.com), **IEEE Transactions on Services Computing 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Outstanding Ph.D. Graduates of the University of Chinese Academy of Sciences, and Beijing.
+- Woqi Excellent Young Teacher Award.
+- APPT 2021 Innovation Award - Honorable Mention.
+- Runner up Winner of the AutoDriving CTF at DEFCON 29.
